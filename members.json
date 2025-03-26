@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john@example.com",
+    "type": "individual",
+    "joinDate": "2024-03-15",
+    "membershipExpiry": "2025-03-15",
+    "certifications": ["CIP"],
+    "coursesEnrolled": ["cybersecurity"]
+  }
+]

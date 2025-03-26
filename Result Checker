@@ -1,0 +1,26 @@
+/ict-replica/
+├── index.html                  # Homepage
+├── about.html                  # About pages
+├── membership.html             # Membership system
+├── training.html               # Training/e-learning
+├── certification.html          # Certification programs
+├── news.html                   # News section
+├── events.html                 # Events calendar
+├── resources.html              # Resources library
+├── contact.html                # Contact page
+├── admin/                      # Admin dashboard
+│   ├── dashboard.html          # Admin console
+│   ├── members.html            # Member management
+│   └── content.html            # Content management
+├── assets/
+│   ├── css/                    # All stylesheets
+│   ├── js/                     # All JavaScript
+│   ├── images/                 # All images
+│   └── fonts/                  # Custom fonts
+├── data/                       # JSON data files
+│   ├── members.json            # Member database
+│   ├── news.json               # News articles
+│   └── events.json             # Event data
+└── server/                     # Backend API (Node.js/PHP)
+    ├── api/                    # API endpoints
+    └── config/                 # Server configuration

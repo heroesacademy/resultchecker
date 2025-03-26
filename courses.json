@@ -1,0 +1,11 @@
+[
+  {
+    "id": "cybersecurity",
+    "title": "Cybersecurity Fundamentals",
+    "description": "Learn essential cybersecurity concepts...",
+    "price": 25000,
+    "duration": "6 weeks",
+    "modules": 12,
+    "instructor": "ICT Academy"
+  }
+]

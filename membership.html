@@ -1,0 +1,33 @@
+<div class="membership-container">
+  <div class="tabs">
+    <button class="tab-btn active" data-tab="register">Register</button>
+    <button class="tab-btn" data-tab="login">Login</button>
+    <button class="tab-btn" data-tab="benefits">Benefits</button>
+  </div>
+  
+  <div class="tab-content active" id="register">
+    <form id="registrationForm">
+      <!-- Registration fields -->
+      <div class="form-group">
+        <label>Membership Type:</label>
+        <select id="membershipType" required>
+          <option value="individual">Individual (₦25,000/year)</option>
+          <option value="corporate">Corporate (₦150,000/year)</option>
+          <option value="student">Student (₦10,000/year)</option>
+        </select>
+      </div>
+      
+      <!-- Personal details, contact info, etc. -->
+      
+      <button type="submit" class="btn">Complete Registration</button>
+    </form>
+  </div>
+  
+  <div class="tab-content" id="login">
+    <!-- Login form -->
+  </div>
+  
+  <div class="tab-content" id="benefits">
+    <!-- Membership benefits display -->
+  </div>
+</div>
